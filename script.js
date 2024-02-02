@@ -1,12 +1,11 @@
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB-fhTdzoXp4MuI32zqqYZudtu4xsaLH8Y",
-  authDomain: "chatwebsite-21ae4.firebaseapp.com",
-  projectId: "chatwebsite-21ae4",
-  storageBucket: "chatwebsite-21ae4.appspot.com",
-  messagingSenderId: "571948723583",
-  appId: "1:571948723583:web:113648d1ddd6f0c9523e4a",
-  measurementId: "G-6MS8XY55K6"
+  apiKey: "AIzaSyD3o11RJhQ_OE3s1oAnzmsksO0G7Z6amb8",
+  authDomain: "chatarccc.firebaseapp.com",
+  projectId: "chatarccc",
+  storageBucket: "chatarccc.appspot.com",
+  messagingSenderId: "1075868745926",
+  appId: "1:1075868745926:web:ee4babdb7aa466947557c7"
 };
 
 // Initialize Firebase
